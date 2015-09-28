@@ -1,4 +1,4 @@
-# Calenda Crawler
+# Calendar Crawler
 
 ## 使用方法：
 1. 自行至[行事曆](http://active.kuas.edu.tw/EPortfolio/Activity/UnitBsCalendar.aspx) 下載最新學期的行事曆原始碼，並將單位選擇為教務處
